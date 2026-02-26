@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Hyperwave";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/integrado-git/SUNBIZ_assets@main/hyperwave_three-webfont.woff2") format("woff2");
+}
+
+html, body {
+  font-family: "Hyperwave", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+}
