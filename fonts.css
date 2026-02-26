@@ -6,10 +6,10 @@
   src: url("https://cdn.jsdelivr.net/gh/integrado-git/SUNBIZ_assets@main/hyperwave_three-webfont.woff2") format("woff2");
 }
 
-/* Solo usar cuando tú lo apliques manualmente */
 .hyperwave {
   font-family: "Hyperwave", sans-serif;
 }
+
 @font-face {
   font-family: "HyperwaveTwo";
   font-style: normal;
@@ -18,7 +18,6 @@
   src: url("https://cdn.jsdelivr.net/gh/integrado-git/SUNBIZ_assets@main/hyperwave_two-webfont.woff2") format("woff2");
 }
 
-/* Solo se aplicará donde tú pongas esta clase */
 .hyperwave-two {
   font-family: "HyperwaveTwo", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
 }
