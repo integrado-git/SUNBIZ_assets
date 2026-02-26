@@ -10,3 +10,15 @@
 .hyperwave {
   font-family: "Hyperwave", sans-serif;
 }
+@font-face {
+  font-family: "HyperwaveTwo";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/integrado-git/SUNBIZ_assets@main/hyperwave_two-webfont.woff2") format("woff2");
+}
+
+/* Solo se aplicará donde tú pongas esta clase */
+.hyperwave-two {
+  font-family: "HyperwaveTwo", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+}
