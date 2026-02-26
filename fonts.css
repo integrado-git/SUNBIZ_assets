@@ -6,10 +6,7 @@
   src: url("https://cdn.jsdelivr.net/gh/integrado-git/SUNBIZ_assets@main/hyperwave_three-webfont.woff2") format("woff2");
 }
 
-/* Si Hyperwave se aplica global, TODO se verá en mayúsculas rojas */
+/* Solo usar cuando tú lo apliques manualmente */
 .hyperwave {
-  font-family: "Hyperwave", sans-serif !important;
-  text-transform: uppercase !important;
-  outline: 2px solid red !important;
+  font-family: "Hyperwave", sans-serif;
 }
-html { outline: 6px solid lime !important; }
