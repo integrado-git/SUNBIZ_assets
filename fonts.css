@@ -6,8 +6,7 @@
   src: url("https://cdn.jsdelivr.net/gh/integrado-git/SUNBIZ_assets@main/hyperwave_three-webfont.woff2") format("woff2");
 }
 
-/* PRUEBA: si esto afecta toda la web, hay alguien aplicando .hyperwave globalmente */
+/* Solo donde pongas esta clase */
 .hyperwave {
-  font-family: "Hyperwave", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif !important;
-  font-size: 60px !important;
+  font-family: "Hyperwave", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
 }
