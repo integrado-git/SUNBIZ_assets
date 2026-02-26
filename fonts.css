@@ -12,3 +12,4 @@
   text-transform: uppercase !important;
   outline: 2px solid red !important;
 }
+html { outline: 6px solid lime !important; }
